@@ -12,7 +12,7 @@ while (e<700){
     a++
     d=0
     x=2
-    while (x<a){
+    while (x<=a**0.5){
         if (a%x==0){
             x++
             d=1
